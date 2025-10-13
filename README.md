@@ -1,8 +1,8 @@
 # Thailand_trip_plan
-planning Izumi's Christmas trip to Thailand 
+Planning Izumi's Christmas trip to Thailand 
 # 🇹🇭 Bangkok Trip Planner – Draft
 
-Collaborative itinerary for our 5-day trip to Bangkok.
+Collaborative itinerary for our trip to Thailand.
 
 ---
 
