@@ -16,8 +16,10 @@ Collaborative itinerary for our trip to Thailand.
 ## 🏯 Culture & Sights
 - Wat Pho (Reclining Buddha)
 - Wat Arun (Temple of Dawn)
+- Grand Palace
 - Jim Thompson House
 - Chao Phraya River Dinner Cruise
+- Chinatown
 
 ---
 
@@ -26,6 +28,7 @@ Collaborative itinerary for our trip to Thailand.
 - Sushi Hiro / Isao (Phrom Phong)
 - After You Dessert Café
 - Supanniga Eating Room (riverside)
+- Blind dinner Sherathon Sukumvit
 
 ---
 
